@@ -1,3 +1,4 @@
 https://huggingface.co/learn/nlp-course/
 code at https://colab.research.google.com/drive/1nGNeRNABsvqtJrTWogxd2Sq1noJL_nHa
 * chapter 1 done 20230905
+* chapter 2 done 20230906
