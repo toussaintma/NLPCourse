@@ -6,3 +6,4 @@ code at https://colab.research.google.com/drive/1nGNeRNABsvqtJrTWogxd2Sq1noJL_nH
 * chapter 4 done 20230912
 * chapter 5 done 20230913
 * chapter 6 done 20230920
+* chapter 7 token classification done 20230922
